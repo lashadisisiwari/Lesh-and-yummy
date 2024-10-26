@@ -1,0 +1,928 @@
+.firstpage {
+  margin-left: -5%;
+}
+
+.header {
+  background-color: rgba(114, 63, 95, 1);
+  border-radius: 20px;
+  padding: 10px;
+  font-family: Caveat, cursive;
+}
+.salmanmain {
+  margin: 200px;
+  margin-top: 50px;
+}
+.salmanh1 {
+  font-size: 44px;
+}
+.nav {
+  margin-left: 1250px;
+  color: white;
+}
+.nav a {
+  color: rgb(255, 255, 255);
+  margin: 0;
+  padding-top: 25px;
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 20px;
+}
+/* .nav a:hover {
+    background-color: black;
+  } */
+
+.h1 {
+  color: white;
+  margin: -30px;
+  padding-left: 30px;
+  padding-bottom: 25px;
+}
+.h2 {
+  color: white;
+  padding-left: 20px;
+}
+.intotduction {
+  font-size: 25px;
+  color: rgb(79, 67, 67);
+  font-style: italic;
+  font-weight: 500;
+  margin-right: 33%;
+}
+.intor2 {
+  margin-top: -41px;
+}
+.tricksbox {
+  padding-top: 0px;
+  height: 1781px;
+}
+.box {
+  border: 1px solid rgb(229, 219, 219);
+  width: 700px;
+  padding-right: 17px;
+  margin-bottom: 7.5rem;
+  padding-left: 53px;
+  background-color: rgba(161, 154, 154, 0.151);
+  margin-top: 7.5rem;
+}
+.footerbox {
+  margin-left: 144px;
+  padding-bottom: 15%;
+  margin-top: 23.7%;
+}
+.commentline {
+  letter-spacing: 5px;
+  word-spacing: 7px;
+  font-weight: bolder;
+  margin-top: 10%;
+}
+
+.vediobox {
+  height: 500px;
+}
+.hed01 {
+  font-size: 30px;
+  font-family: "Acme", sans-serif;
+  font-weight: 800;
+  font-style: normal;
+  margin-top: 29px;
+}
+.step01 {
+  margin-left: 44px;
+  padding-left: 20%;
+}
+
+.step02 {
+  margin-left: 30%;
+}
+.step03 {
+  margin-left: 23%;
+}
+.step04 {
+  margin-left: 33%;
+}
+.step-begin-topic {
+  margin-top: -8%;
+  font-size: 30px;
+  font-family: "Acme", sans-serif;
+  font-weight: 800;
+  font-style: normal;
+}
+.entrysreen {
+  margin-left: 13px;
+  font-size: x-large;
+  color: rgb(79, 67, 67);
+}
+.trickspart {
+  margin-top: 43px;
+}
+.cutting-step {
+  margin-top: -1%;
+  padding-left: 4%;
+  padding-right: 4%;
+  margin-right: 14px;
+}
+.toss-step {
+  margin-top: -1%;
+  padding-left: 4%;
+  padding-right: 4%;
+  margin-right: 14px;
+}
+
+.fry-step {
+  padding-left: 8%;
+  padding-right: 4%;
+  margin-top: -1%;
+  margin-left: -32px;
+}
+.done-step {
+  margin-left: 5%;
+  margin-right: 5%;
+  padding-right: 4%;
+  padding-left: 4%;
+  margin-top: -1%;
+}
+
+.circleimage {
+  width: 250px;
+  float: right;
+  border-radius: 50%;
+  margin-top: -273px;
+  margin-right: 21px;
+}
+
+.salman-vedio {
+  align-content: center;
+  padding-top: 17px;
+  padding-left: 12px;
+}
+
+.intor2 {
+  font-size: large;
+  line-height: 30px;
+  font-weight: 600;
+}
+.tricks-image {
+  width: 400px;
+  margin-left: 19%;
+  margin-right: 19%;
+  padding-top: 42px;
+  height: 400px;
+}
+.salman {
+  padding: 9%;
+}
+.content {
+  margin: -5px;
+}
+
+.large-num {
+  --tw-border-opacity: 1;
+  --tw-bg-opacity: 1;
+  --tw-text-opacity: 1;
+  background-color: rgb(115 64 96 / var(--tw-bg-opacity));
+  border-color: rgb(115 64 96 / var(--tw-border-opacity));
+  border-radius: 9999px;
+  border-width: 2px;
+  color: rgb(255 255 255 / var(--tw-text-opacity));
+  font-size: 2.5rem;
+  height: 42px;
+  line-height: 1;
+  margin-bottom: 0;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0.5rem;
+  width: 42px;
+  margin-top: 30px;
+}
+.recep-step-box2 {
+  height: 914px;
+  margin-top: 73px;
+}
+.recep-image {
+  padding-left: 4%;
+  padding-right: 4%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+.ingredient {
+  border: 4px solid rgba(114, 63, 95, 1);
+  height: 1372px;
+  width: 766px;
+  padding-top: 0%;
+}
+.ingredient-image {
+  width: 24%;
+  height: 64%;
+  border-radius: 50%;
+  margin-top: -16%;
+  margin-left: 38%;
+  border: 7px solid rgba(114, 63, 95, 1);
+}
+.inputbox {
+  width: 99%;
+  background-color: rgba(114, 63, 95, 1);
+  margin-left: 0px;
+  margin-right: 1px;
+  border: 5px solid rgba(114, 63, 95, 1);
+  padding-left: 2px;
+  padding-top: 0px;
+  height: 21%;
+}
+.endbox {
+  margin-top: 19%;
+  padding-top: 1px;
+  margin-bottom: -17%;
+}
+.buttombox2 {
+  height: 167px;
+  margin-top: 0%;
+}
+.buttombox1 {
+  margin-top: 0%;
+  height: 167px;
+}
+.nutrition {
+  color: white;
+}
+.endtopic {
+  font-size: 41px;
+  color: white;
+  margin-left: 56px;
+  margin-top: 41px;
+}
+.lineend {
+  margin-left: 16%;
+  margin-right: 16%;
+  margin-top: -30px;
+}
+.end-star {
+  margin-left: 43%;
+  margin-right: 20%;
+  size: 6px;
+}
+.finish-pra {
+  margin-left: 7%;
+  margin-right: 7%;
+  font-size: 20px;
+  margin-top: 7%;
+}
+.infredient {
+  font-size: 20px;
+  color: grey;
+  margin-left: 7%;
+  margin-top: 5%;
+}
+/* .checkbox {
+  border: 1px solid;
+  border-radius: 2px;
+  display: inline-block;
+  height: 20px;
+  margin-right: 10px;
+  width: 20px;
+  margin-left: 7%;
+  margin-top: 2%;
+} */
+.ingredient-item {
+  font-size: 20px;
+  margin-left: 4%;
+  line-height: 200%;
+}
+.linecolour:hover {
+  background-color: rgba(105, 60, 89, 0.392);
+  height: 50px;
+  margin-right: 30%;
+}
+.nutrition {
+  color: white;
+}
+.h6 {
+  color: white;
+  font-size: large;
+  margin-left: 7%;
+  margin-top: -2%;
+  font-weight: 100;
+  font-style: italic;
+}
+.sarving {
+  margin-top: -29px;
+}
+.entyr table,
+th,
+td {
+  border: 3px solid rgba(114, 63, 95, 1);
+  text-align: center;
+  margin-top: 0%;
+  width: 764px;
+  margin-bottom: 0%;
+}
+.table {
+  margin-top: -4%;
+}
+.nutdatails {
+  text-align: left;
+}
+.linkbox {
+  background-color: rgba(114, 63, 95, 0.304);
+  height: 50%;
+  width: 60.3%;
+  padding-bottom: 5%;
+  margin-top: 73px;
+  margin-bottom: -3%;
+  margin-left: 0%;
+  margin-right: 20%;
+}
+.jumpto-recipe {
+  font-size: 18px;
+  margin-left: 30%;
+  color: rgba(114, 63, 95, 1);
+  font-weight: bold;
+}
+
+.insterimage {
+  width: 80px;
+  height: 80px;
+  margin-top: 9%;
+  margin-left: 12%;
+}
+.insterline {
+  color: white;
+  font-weight: 900;
+  margin-left: 33%;
+  font-size: 213%;
+  margin-top: -11%;
+  font-family: Caveat, cursive;
+  word-spacing: 20%;
+}
+.line2 {
+  font-size: 117%;
+  color: white;
+  margin-bottom: -1%;
+}
+.line1 {
+  margin-bottom: 0%;
+}
+.instersection {
+  margin-top: -40px;
+}
+.form {
+  font-weight: 900;
+  color: rgba(114, 63, 95, 1);
+  float: center;
+}
+.inputbar {
+  height: 20px;
+  line-height: 30px;
+  width: 422px;
+  margin-left: 1px;
+  box-shadow: 3px 4px 5px rgba(114, 63, 95, 0.625);
+}
+.bar4 {
+  height: 200px;
+  width: 422px;
+  margin-left: 1px;
+}
+.label {
+  line-height: 284%;
+}
+.submit {
+  width: 252px;
+  height: 54px;
+  background-color: rgba(114, 63, 95, 1);
+  margin-left: 2px;
+  float: left;
+  margin-top: 84px;
+  color: white;
+  font-size: large;
+  font-family: Caveat, cursive;
+}
+.signtext {
+  font-size: 125%;
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+.footheader {
+  background-color: dimgray;
+  border-radius: 0px;
+  width: 100%;
+  height: 469px;
+  margin-top: 20px;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+.footerimage {
+  width: 400px;
+  height: 400px;
+  margin-left: 327px;
+  margin-top: 34px;
+}
+.picturebox {
+  width: 400px;
+  height: 200px;
+  background-color: rgba(114, 63, 95, 0.514);
+  border: 1px solid black;
+  margin-top: 20px;
+  padding-top: 20px;
+}
+
+/* footer */
+.footer-link-box {
+  border: 1px solid dimgray;
+  width: 100%;
+  height: 130%;
+  background-color: dimgray;
+}
+
+.footer-image {
+  margin-left: 267px;
+  margin-top: 86px;
+  margin-bottom: 60px;
+  width: 435px;
+  height: 363px;
+}
+
+.e-book-header {
+  float: right;
+  margin-right: 42%;
+  font-size: 51px;
+  color: rgb(237 182 84);
+  font-family: Caveat, cursive;
+  margin-top: 8%;
+}
+
+.e-book-header2 {
+  float: right;
+  margin-right: 24%;
+  font-size: 39px;
+  color: white;
+  margin-top: -5%;
+}
+
+.footer-text {
+  float: right;
+  font-size: 21px;
+  font-weight: 40px;
+  color: white;
+  margin-top: 15px;
+  margin-right: 69px;
+  margin-left: 93px;
+  justify-content: center;
+}
+
+.about-footer-box {
+  border: 1px solid dimgray;
+  width: 50%;
+  height: 500px;
+  background-color: dimgray;
+  float: right;
+}
+
+.formkit-input {
+  float: right;
+  margin-right: 486px;
+  height: 33px;
+  margin-top: 20px;
+}
+
+.imoji-nav {
+  display: flex;
+  float: right;
+  font-size: 45px;
+  margin-top: -12px;
+  margin-right: 140px;
+  column-gap: 60px;
+}
+
+/* resp320 */
+
+/* Responsive styles for screens up to 320px */
+@media (max-width: 320px) {
+  /* Header Adjustments */
+  .header,
+  .nav a {
+    font-size: 12px;
+    padding: 5px;
+    text-align: center;
+  }
+  .h1 {
+    font-size: 1.1em;
+  }
+
+  /* Main Content Adjustments */
+  .salmanmain,
+  .box,
+  .ingredient {
+    width: 100%;
+    padding: 5px;
+  }
+  .firstpage,
+  .entrysreen {
+    font-size: 14px;
+    padding: 5px;
+  }
+  .salmanh1,
+  .hed01,
+  .large-num,
+  .saladh1 {
+    font-size: 1em;
+    text-align: center;
+  }
+
+  /* Image Adjustments */
+  img,
+  .circleimage,
+  .recep-image,
+  .ingredient-image,
+  .footer-image {
+    width: 100%;
+    height: auto;
+  }
+  video {
+    width: 100%;
+    height: auto;
+  }
+
+  /* Footer and Comment Section Adjustments */
+  .footer-link-box,
+  .form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .e-book-header,
+  .e-book-header2,
+  .commentline {
+    font-size: 1.1em;
+    text-align: center;
+  }
+  .formkit-input,
+  .inputbar {
+    width: 100%;
+    padding: 8px;
+    margin: 5px 0;
+  }
+  .submit {
+    padding: 10px;
+    font-size: 1em;
+  }
+
+  /* Nutrition Table Adjustments */
+  .table {
+    font-size: 0.8em;
+    width: 100%;
+  }
+  .tablewidth td,
+  .tablewidth th {
+    padding: 4px;
+  }
+
+  /* Social Media Icons */
+  .imoji-nav a {
+    font-size: 1.2em;
+    margin: 0 4px;
+  }
+}
+
+/* res375 */
+
+@media (max-width: 375px) {
+  .header {
+    text-align: center;
+    padding: 10px;
+  }
+
+  .nav a {
+    display: block;
+    margin: 5px 0;
+    font-size: 14px;
+    text-align: center;
+  }
+
+  .h1 {
+    font-size: 20px;
+    margin: 10px 0;
+  }
+
+  .salmanmain {
+    padding: 10px;
+  }
+
+  .salmanh1 {
+    font-size: 22px;
+    margin: 10px 0;
+  }
+
+  .entryimage,
+  .ingredient-image,
+  .recep-image {
+    width: 100%;
+    height: auto;
+  }
+
+  .vediobox {
+    margin: 10px 0;
+  }
+
+  .hed01 {
+    font-size: 18px;
+    margin: 10px 0;
+  }
+
+  .trickspart {
+    font-size: 14px;
+    margin: 10px 0;
+  }
+
+  .large-num {
+    font-size: 30px; /* Adjust as needed */
+  }
+
+  .ingredient-image {
+    width: 100%;
+    height: auto;
+  }
+
+  .submit {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+  }
+
+  .footer-image {
+    width: 100%;
+    height: auto;
+  }
+
+  .formkit-input {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0;
+  }
+
+  .table {
+    width: 100%;
+    font-size: 12px;
+  }
+
+  .commentline {
+    font-size: 18px;
+    text-align: center;
+  }
+}
+
+/* res425 */
+@media (max-width: 425px) {
+  body {
+    font-size: 14px;
+  }
+
+  .header {
+    text-align: center;
+  }
+
+  .nav {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .nav a {
+    margin: 5px 0;
+  }
+
+  .salmanmain {
+    padding: 10px;
+  }
+
+  .box {
+    margin: 10px 0;
+  }
+
+  .circleimage,
+  .tricks-image,
+  .ingredient-image,
+  .insterimage {
+    width: 100%;
+    height: auto;
+  }
+
+  .recep-image {
+    width: 100%;
+    height: auto;
+  }
+
+  table {
+    width: 100%;
+    font-size: 12px;
+  }
+
+  .footer-image {
+    width: 100%;
+    height: auto;
+  }
+
+  .formkit-input {
+    width: 100%;
+  }
+
+  .inputbar {
+    width: 100%;
+  }
+}
+
+/* rep768 */
+
+@media (max-width: 768px) {
+  .header {
+    padding: 10px;
+    text-align: center;
+  }
+
+  .nav {
+    font-size: 14px;
+  }
+
+  .h1 {
+    font-size: 1.5em;
+  }
+
+  .salmanmain {
+    padding: 15px;
+  }
+
+  .salmanh1 {
+    font-size: 1.8em;
+  }
+
+  .intotduction {
+    font-size: 0.9em;
+  }
+
+  .recep-image {
+    width: 100%;
+    height: auto;
+  }
+
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  .salman-vedio video {
+    width: 100%;
+    height: auto;
+  }
+
+  /* Recipe steps */
+  .large-num {
+    font-size: 2em;
+  }
+
+  .hed01 {
+    font-size: 1.4em;
+  }
+
+  .entrysreen {
+    font-size: 0.9em;
+  }
+
+  .table {
+    width: 100%;
+    font-size: 0.9em;
+  }
+
+  .inputbar {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+
+  .submit {
+    width: 100%;
+    padding: 12px;
+    font-size: 1em;
+  }
+
+  .footer-link-box {
+    padding: 20px;
+    text-align: center;
+  }
+
+  .footer-text {
+    font-size: 0.9em;
+  }
+}
+
+/* laptop1024px */
+
+@media screen and (max-width: 1024px) {
+  .salmanmain {
+    padding: 20px;
+    margin: 0 auto;
+  }
+
+  .header .h1 {
+    font-size: 24px;
+    text-align: center;
+  }
+
+  .nav a {
+    font-size: 14px;
+    margin: 0 10px;
+  }
+
+  .salmanmain img {
+    width: 100%;
+    height: auto;
+  }
+
+  .vediobox video {
+    width: 100%;
+    height: auto;
+  }
+
+  .recep-step-box1,
+  .recep-step-box2,
+  .recep-step-box3,
+  .recep-step-box4 {
+    padding: 15px;
+    margin-bottom: 20px;
+  }
+
+  .salmanh1,
+  .hed01,
+  .endtopic {
+    font-size: 20px;
+  }
+
+  .inputbar,
+  .submit,
+  .signtext {
+    width: 100%;
+    font-size: 16px;
+  }
+
+  .footerbox {
+    padding: 20px;
+  }
+
+  .footer-link-box,
+  .about-footer-box {
+    text-align: center;
+    font-size: 14px;
+  }
+
+  .imoji-nav a {
+    font-size: 18px;
+    margin: 5px;
+  }
+
+  .entrysreen,
+  .tricksbox {
+    padding: 10px;
+    margin: 10px 0;
+  }
+}
+
+/* large -laptop 1440px */
+@media (max-width: 1440px) {
+  body {
+    font-size: 15px;
+  }
+
+  .header {
+    padding: 15px;
+  }
+
+  .nav a {
+    font-size: 1.1em;
+  }
+
+  .salmanmain {
+    padding: 15px;
+  }
+
+  .entryimage,
+  .ingredient-image {
+    width: 90%;
+    margin: 0 auto;
+  }
+
+  .hed01,
+  .salmanh1 {
+    font-size: 1.8em;
+  }
+
+  .inputbar {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+
+  .table {
+    width: 95%;
+    margin: 0 auto;
+  }
+
+  .footer-link-box {
+    text-align: center;
+  }
+}
