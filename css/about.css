@@ -438,12 +438,14 @@ body {
   }
 
   .about-image {
-    width: 50%; /* Adjusts image size for larger screen */
+    width: 50%;
+     /* Adjusts image size for larger screen */
     max-width: 400px;
   }
 
   .about-box2 {
-    width: 45%; /* Ensures text occupies a balanced space */
+    width: 45%; 
+    /* Ensures text occupies a balanced space */
   }
 
   .about-margin,
